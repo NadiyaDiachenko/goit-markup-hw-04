@@ -206,10 +206,19 @@ text-align: center;
     color: white;
         background-color: #404BBF;
    }
-  
+  /*------section 2*/
+
+ 
+
    .section-mein {
     padding: 120px 0;
    }
+
+   .svg-conteiner {
+    width: 264px;
+    height: 112px;
+   }
+
    .title-too-h {
     display: flex;
     color: #2e2f42;
