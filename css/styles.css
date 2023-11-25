@@ -255,6 +255,7 @@ text-align: center;
 .svg-image {
     column-gap: 24;
 }
+
    .title-too-h {
     display: flex;
     color: #2e2f42;
@@ -352,7 +353,8 @@ width: calc((100% - 72px) / 4);
    }
    /*----cection 4---*/
    .overlay {
-    position: absolute;
+    position: relative;
+    overflow: hidden;
     top: o;
     left: 0;
     background-color: #4D5AE5;
