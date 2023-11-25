@@ -290,6 +290,8 @@ text-align: center;
    
  
 .svg-image {
+    width: 64px;
+    height: 64px;
     column-gap: 24px;
 }
 
