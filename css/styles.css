@@ -271,6 +271,9 @@ text-align: center;
    }
 
    .svg-conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 264px;
     height: 112px;
     padding: 24px 100px;
