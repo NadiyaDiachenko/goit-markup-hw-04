@@ -242,7 +242,14 @@ text-align: center;
         background-color: #404BBF;
    }
   /*------section 2*/
-
+.div-section-two {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
  
 
    .section-mein {
@@ -266,6 +273,8 @@ text-align: center;
    }
    .team-sotial-items-icon {
     fill: #F4F4FD;
+    width: 64;
+    height: 64;
    }
 
    .svg-conteiner {
