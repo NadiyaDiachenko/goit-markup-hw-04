@@ -331,6 +331,11 @@ width: calc((100% - 72px) / 4);
         text-transform: capitalize;
         margin-bottom: 72px;
            }
+           .div-section-three {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+           }
    .team {
     display: flex;
     flex-wrap: wrap;
