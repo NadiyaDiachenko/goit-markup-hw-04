@@ -135,19 +135,22 @@ align-items: center;
         
 
    }
-   .menu-link first::after {
-    content: ;
+   .menu-link::after {
     left: 0;
     bottom: -1px;
     height: 4px;
-    width: 48px;
-        height: 4px;
-        position: absolute;
     background-color: #404bbf;
     border-radius: 2px;
 
    }
-   
+   .first::after{
+    content: ;
+    width: 48px;
+    height: 4px;
+    position: absolute;
+        color: #404bbf;
+
+   }
    .menu-header-first {
     
    
