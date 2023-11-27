@@ -154,9 +154,9 @@ align-items: center;
    }
             .current::after {
         content: "";
-            position: absolute;
+            position:absolute;
             left: 0;
-            bottom: -26px;
+            bottom: -1px;
             display: block;
             width: 48px;
             height: 4px;
