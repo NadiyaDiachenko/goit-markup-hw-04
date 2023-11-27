@@ -95,6 +95,11 @@ body {
    .mail-link:focus {
     color: #404bbf;
    }
+   *::before,
+*::after {
+  box-sizing: border-box;
+}
+
    /*=====CONTAINER=====*/
    .container {
        width: 1158px;
@@ -146,18 +151,19 @@ align-items: center;
    .current{
     position: relative;
     color: #404BBF;
-    page-navigation .curent::after {
-        content: ;
+   }
+            .current::after {
+        content: "";
             position: absolute;
             left: 0;
             bottom: -1px;
             display: block;
-            width: 100%;
+            width: 48px;
             height: 48px;
             border-radius: 2px;
             background-color: #404BBF;
     }
-   }
+   
    .first::after{
     width: 48px;
     height: 4px;
