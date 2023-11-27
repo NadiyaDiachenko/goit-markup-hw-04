@@ -254,6 +254,7 @@ text-align: center;
    }
    .ul-conteiner-sothial {
     gap: 24px;
+    justify-content: center;
    }
    .link-sotial {
     display: flex;
