@@ -148,11 +148,11 @@ align-items: center;
     border-radius: 2px;
 
    }
-   .current{
+.current{
     position: relative;
     color: #404BBF;
    }
-            .current::after {
+.menu-link.current::after {
         content: "";
             position:absolute;
             left: 0;
