@@ -251,11 +251,10 @@ text-align: center;
    .conteiner-sothial {
     width: 40px;
     height: 40px;
+ 
+
    }
-   .ul-conteiner-sothial {
-    gap: 16px;
-    justify-content: center;
-   }
+  
    
    .link-sotial {
     display: flex;
@@ -301,7 +300,8 @@ text-align: center;
    }
    .ul-conteiner-sothial{
     display: flex;
-    column-gap: 24px;
+    gap: 24px;
+ justify-content: center;
    }
    
  
@@ -446,10 +446,9 @@ width: calc((100% - 72px) / 4);
 
 }
 
-.portfolio
-.list-section-four:hover>p {
-    transform: translateY(0%);
 
+.paragraf-portfolio {
+    transform: translateY(0%);
 }
 
 .paragraf-portfolio {
