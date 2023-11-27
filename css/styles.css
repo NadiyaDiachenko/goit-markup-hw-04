@@ -256,6 +256,7 @@ text-align: center;
     gap: 16px;
     justify-content: center;
    }
+   
    .link-sotial {
     display: flex;
     justify-content: center;
@@ -268,8 +269,8 @@ text-align: center;
    margin-left: 16px;
    margin-right: 16px;
    column-gap: 24px;
-   
    }
+
    .conteiner-sothial
    .link-sotial:hover {
     background-color: #404bbf;
@@ -497,8 +498,8 @@ color: #434455;
    .conteiner-futer{
     display: flex;
     align-items: baseline;
-    
    }
+
    .footer-container {
     display: flex;
     align-content: center;
@@ -520,15 +521,21 @@ color: #434455;
    .div-futer-logo-paragraf{
     margin-right: 120px;
    }
+   .link-sotial-footer{
+  
+   }
 
    .footer-background {
     color: white;
     background-color: #2E2F42;
     padding: 100px 0
    }
-   .footerlink {
-    color: white;
+   .footer-hover {
+    background-color: #4d5ae5;
    }
+  .footer-hover:hover {
+background-color: #31d0aa;
+  }
    .paragraph-foter {
     color: #F4F4FD;
         /* Body */
