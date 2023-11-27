@@ -144,10 +144,9 @@ align-items: center;
 
    }
    .first::after{
-    content: ;
     width: 48px;
     height: 4px;
-    position: absolute;
+    position: relative;
         color: #404bbf;
 
    }
@@ -448,7 +447,8 @@ width: calc((100% - 72px) / 4);
 
 
 .paragraf-portfolio {
-    transform: translateY(0%);
+    position: absolute;
+    
 }
 
 .paragraf-portfolio {
