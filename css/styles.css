@@ -420,6 +420,10 @@ width: calc((100% - 72px) / 4);
     height: 100%;
     width: 100%;
    }
+   .paragraf-portfolio {
+       position: absolute;
+
+   }
    .title-four {
     color:#2E2F42;
         text-align: center;
@@ -446,10 +450,6 @@ width: calc((100% - 72px) / 4);
 }
 
 
-.paragraf-portfolio {
-    position: absolute;
-    
-}
 
 .paragraf-portfolio {
     position: absolute;
