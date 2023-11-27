@@ -505,6 +505,15 @@ color: #434455;
     justify-content: center;
     gap: 16px;
    }
+   .paragraph-foter-social-media{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+    
+   }
    .div-futer-logo-paragraf{
     margin-right: 120px;
    }
