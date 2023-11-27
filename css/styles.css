@@ -270,7 +270,7 @@ text-align: center;
    }
    .conteiner-sothial
    .link-sotial:hover {
-    justify-content: center;
+    background-color: #404bbf;
    }
    .conteiner-sothial 
    .link-sotial:focus{
