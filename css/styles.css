@@ -538,6 +538,10 @@ color: #434455;
   .footer-hover:hover {
 background-color: #31d0aa;
   }
+        .ul-conteiner-sothial 
+        .footer-hover:focus {
+            background-color: #31d0aa;
+        }
    .paragraph-foter {
     color: #F4F4FD;
         /* Body */
