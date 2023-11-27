@@ -530,9 +530,11 @@ color: #434455;
     background-color: #2E2F42;
     padding: 100px 0
    }
+   
    .footer-hover {
     background-color: #4d5ae5;
    }
+   .ul-conteiner-sothial
   .footer-hover:hover {
 background-color: #31d0aa;
   }
