@@ -225,11 +225,12 @@ text-align: center;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.70),
         rgba(46, 47, 66, 0.70)),
-    url(/images/hero/people-office.jpg);
+    url(../images/hero/people-office.jpg);
    
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
+    margin: 0 auto;
     
 }
    .title-section-one {
@@ -546,7 +547,7 @@ color: #434455;
    }
 
    .footer-container {
-    display: flex;
+    
     align-content: center;
     justify-content: center;
     gap: 16px;
